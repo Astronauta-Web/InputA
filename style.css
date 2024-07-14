@@ -1,0 +1,21 @@
+body {
+  background-color: #36C2CE;
+}
+
+form {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+label {
+  font-family: "Playwrite BE VLG", cursive;
+  color: #4535C1;
+}
+
+input {
+  border-radius: 50px;
+}
